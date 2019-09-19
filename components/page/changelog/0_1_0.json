@@ -1,0 +1,22 @@
+{
+    "id": "201909190822",
+    "author": "jinzw",
+    "changes": [
+        {
+            "newWidget": {
+                "name": "Page",
+                "label": "页面",
+                "iconClass": "",
+                "properties": [ ],
+                "events": [
+                    {
+                        "name": "onLoad",
+                        "label": "加载页面",
+                        "valueType": "function",
+                        "arguments": []
+                    }
+                ]
+            }
+        }
+    ]
+}
