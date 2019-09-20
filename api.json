@@ -1,6 +1,6 @@
 {
     "name": "std-api-widget",
-    "version": "0.1.0",
+    "version": "0.0.1",
     "displayName": "Block Lang std widget API",
     "description": "BlockLang 部件标准库的接口说明",
     "category": "Widget",
