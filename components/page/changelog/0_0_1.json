@@ -6,8 +6,8 @@
             "newWidget": {
                 "name": "Page",
                 "label": "页面",
-                "iconClass": "",
                 "properties": [ ],
+                "canHasChildren": true,
                 "events": [
                     {
                         "name": "onLoad",
